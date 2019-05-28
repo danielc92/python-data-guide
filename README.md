@@ -28,9 +28,9 @@ The following formats are documented in this guide.
 ### CSV
 - `notebooks/CSV.ipynb`
 ### JSON
-- No notebook as of now.
+- `notebooks/JSON.ipynb`
 ### HTML
-- No notebook as of now.
+- `notebooks/HTML.ipynb`
 ### XML
 - No notebook as of now.
 ### SHP
