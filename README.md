@@ -1,4 +1,4 @@
-# Data Guide
+# Accessing, Modifying and Saving data using Python.
 This project will go through how to deal with a wide array of datatypes using purely `python 3.7`. I have setup a notebook for each data format within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring and manipulating the data format of interest.
 
 # Setup
