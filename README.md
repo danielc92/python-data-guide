@@ -1,5 +1,5 @@
 # Data Guide
-Setting up notebooks in order to explore data from a large variety of formats using purely `python`.
+This project will go through how to deal with a wide array of datatypes using purely `python 3.7`. I have setup a notebook for each data format within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring and manipulating the data format of interest.
 
 # Setup
 **Setting up virtual environment (python 3.7)**
@@ -20,9 +20,8 @@ source venv/bin/activate
 
 *Python requirements**
 ```sh
-pip install pandas opencv-python 
+pip install pandas opencv-python lxml bs4
 ```
-
 # Formats
 The following formats are documented in this guide.
 ### CSV
@@ -38,15 +37,17 @@ The following formats are documented in this guide.
 ### VIDEO
 - No notebook as of now.
 ### IMAGE
-- No notebook as of now.
+- `notebooks/IMAGE.ipynb`
 ### SQL
 - No notebook as of now.
 ### NOSQL
 - No notebook as of now.
-
 
 # Contributors
 - Daniel Corcoran
 
 # Sources
 - [Shapefiles for Australia 2018 release by ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202018?OpenDocument)
+- [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
+- [opencv documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
+- [fiona documentation](https://pypi.org/project/Fiona/)
