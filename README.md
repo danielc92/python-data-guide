@@ -26,7 +26,7 @@ pip install pandas opencv-python
 # Formats
 The following formats are documented in this guide.
 ### CSV
-- No notebook as of now.
+- `notebooks/CSV.ipynb`
 ### JSON
 - No notebook as of now.
 ### HTML
@@ -34,7 +34,7 @@ The following formats are documented in this guide.
 ### XML
 - No notebook as of now.
 ### SHP
-- No notebook as of now.
+- `notebooks/Shapefiles.ipynb`
 ### VIDEO
 - No notebook as of now.
 ### IMAGE
