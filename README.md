@@ -3,18 +3,21 @@ This project will go through how to deal with a wide array of datatypes using pu
 
 # Setup
 **Setting up virtual environment (python 3.7)**
-Get location of bin file 
+
 ```sh
+# Get location of python bin file 
 which python3
 ```
 
 Create virtual environment called 'venv'
 ```sh
+# specify the python path which was collected above
 virtualenv --python=/usr/bin/python3 venv
 ```
 
 Activate venv 
 ```sh
+# activate using source command
 source venv/bin/activate
 ```
 
