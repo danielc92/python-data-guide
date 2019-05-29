@@ -23,7 +23,7 @@ source venv/bin/activate
 
 *Python requirements**
 ```sh
-pip install pandas opencv-python lxml bs4
+pip install pandas opencv-python lxml bs4 fiona matplotlib jupyter
 ```
 # Formats
 The following formats are documented in this guide.
