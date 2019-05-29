@@ -44,7 +44,7 @@ The following formats are documented in this guide.
 ### IMAGE
 - `notebooks/IMAGE.ipynb`
 ### SQL
-- No notebook as of now.
+- `notebooks/SQL.ipynb`
 ### NOSQL
 - No notebook as of now.
 
