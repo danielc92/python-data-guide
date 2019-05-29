@@ -46,7 +46,7 @@ The following formats are documented in this guide.
 ### SQL
 - `notebooks/SQL.ipynb`
 ### NOSQL
-- No notebook as of now.
+- `notebooks/NOSQL.ipynb`
 
 # Contributors
 - Daniel Corcoran
