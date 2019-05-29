@@ -2,7 +2,9 @@
 This project will go through how to deal with a wide array of datatypes using purely `python 3.7`. I have setup a notebook for each data format within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring and manipulating the data format of interest.
 
 # Setup
-**Setting up virtual environment (python 3.7)**
+System used in this project is *Ubuntu 19.04* with *Python 3.7* installation
+
+**Setting up virtual environment**
 
 ```sh
 # Get location of python bin file 
