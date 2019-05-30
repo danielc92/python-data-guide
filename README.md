@@ -57,15 +57,15 @@ The following formats are documented in this guide.
 
 |Data format|Repo location|Link|Available| 
 | ----- | ----- | ----- | ----- |
-|CSV|`notebooks/CSV.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`true`|
-|JSON|`notebooks/JSON.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/JSON.ipynb)|`true`|
-|HTML|`notebooks/HTML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/HTML.ipynb)|`true`|
-|XML|`notebooks/XML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/XML.ipynb)|`true`|
-|Shapefile|`notebooks/Shapefiles.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`true`|
-|IMAGE|`notebooks/IMAGE.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/IMAGE.ipynb)|`true`|
-|VIDEO|`notebooks/VIDEO.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/VIDEO.ipynb)|`true`|
-|SQL|`notebooks/SQL.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/SQL.ipynb)|`true`|
-|NOSQL|`notebooks/NOSQL.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/NOSQL.ipynb)|`true`|
+|CSV|`notebooks/CSV.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`yes`|
+|JSON|`notebooks/JSON.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/JSON.ipynb)|`yes`|
+|HTML|`notebooks/HTML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/HTML.ipynb)|`yes`|
+|XML|`notebooks/XML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/XML.ipynb)|`yes`|
+|Shapefile|`notebooks/Shapefiles.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`yes`|
+|IMAGE|`notebooks/IMAGE.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/IMAGE.ipynb)|`yes`|
+|VIDEO|||`no`|
+|SQL|`notebooks/SQL.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/SQL.ipynb)|`yes`|
+|NOSQL|`notebooks/NOSQL.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/NOSQL.ipynb)|`yes`|
 
 # Contributors
 - Daniel Corcoran
