@@ -1,5 +1,19 @@
-# Accessing, Modifying and Saving data using Python.
-This project will go through how to deal with a wide array of datatypes using purely `python 3.7`. I have setup a notebook for each data format within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring and manipulating the data format of interest.
+# Accessing Data with Python Guide
+This repository contains detailed instructional notebooks which examine various well known data formats using `python 3.7`. I have setup a notebook for each data format within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring, manipulating and exporting the data format of interest. The follow data formats are currently supported;
+**Common text formats**
+- CSV (.csv, .tsv, .psv)
+- JSON (.json)
+**Markup Languages**
+- HTML (.html, .htm)
+- XML (.xml)
+**Geographic**
+- SHAPEFILE (.shp)
+**Media**
+- IMAGE (.jpg, .jpeg, .png)
+- VIDEO (.mp4, .webm)
+**Databases**
+- SQL (sqlite, postgres, mysql, mssql server, oracle server)
+- NOSQL (mongodb)
 
 # Setup
 System used in this project is *Ubuntu 19.04* with *Python 3.7* installation
