@@ -43,7 +43,7 @@ which python3
 virtualenv --python=/usr/bin/python3 venv
 ```
 
-**Activate venv **
+**Activate venv**
 
 ```sh
 # activate using source command
