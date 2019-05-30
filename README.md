@@ -36,24 +36,28 @@ System used in this project is *Ubuntu 19.04* with *Python 3.7* installation
 which python3
 ```
 
-Create virtual environment called 'venv'
+**Create virtual environment called 'venv'**
+
 ```sh
 # specify the python path which was collected above
 virtualenv --python=/usr/bin/python3 venv
 ```
 
-Activate venv 
+**Activate venv **
+
 ```sh
 # activate using source command
 source venv/bin/activate
 ```
 
-*Python requirements**
+**Python requirements**
+
 ```sh
 pip install pandas opencv-python lxml bs4 fiona descartes matplotlib jupyter
 ```
+
 # Formats
-The following formats are documented in this guide.
+The following data formats are available in this guide.
 
 |Data format|Repo location|Link|Available| 
 | ----- | ----- | ----- | ----- |
