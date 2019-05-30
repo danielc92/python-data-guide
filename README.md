@@ -54,8 +54,9 @@ pip install pandas opencv-python lxml bs4 fiona descartes matplotlib jupyter
 ```
 # Formats
 The following formats are documented in this guide.
+
 |Data format|Repo location|Link|Available| 
-|-----|-----|-----|-----|
+| ----- | ----- | ----- | ----- |
 |CSV|`notebooks/CSV.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`true`|
 |JSON|`notebooks/JSON.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/JSON.ipynb)|`true`|
 |HTML|`notebooks/HTML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/HTML.ipynb)|`true`|
