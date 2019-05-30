@@ -36,7 +36,7 @@ The following formats are documented in this guide.
 ### HTML
 - `notebooks/HTML.ipynb`
 ### XML
-- No notebook as of now.
+- `notebooks/XML.ipynb`
 ### SHP
 - `notebooks/Shapefiles.ipynb`
 ### VIDEO
@@ -56,3 +56,4 @@ The following formats are documented in this guide.
 - [pandas documentation](https://pandas.pydata.org/pandas-docs/stable/)
 - [opencv documentation](https://opencv-python-tutroals.readthedocs.io/en/latest/index.html)
 - [fiona documentation](https://pypi.org/project/Fiona/)
+- [XML file source](https://data.gov.au/dataset/ds-dga-4b7b5b50-774f-4416-90ce-5b7df85ff8ce/details?q=XML)
