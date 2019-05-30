@@ -57,7 +57,7 @@ The following formats are documented in this guide.
 
 |Data format|Repo location|Link|Available| 
 | ----- | ----- | ----- | ----- |
-|CSV|`notebooks/CSV.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`yes`|
+|CSV|`notebooks/CSV.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/CSV.ipynb)|`yes`|
 |JSON|`notebooks/JSON.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/JSON.ipynb)|`yes`|
 |HTML|`notebooks/HTML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/HTML.ipynb)|`yes`|
 |XML|`notebooks/XML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/XML.ipynb)|`yes`|
