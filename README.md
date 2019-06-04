@@ -67,7 +67,7 @@ The following data formats are available in this guide.
 |XML|`notebooks/XML.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/XML.ipynb)|`yes`|
 |Shapefile|`notebooks/Shapefiles.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/Shapefiles.ipynb)|`yes`|
 |IMAGE|`notebooks/IMAGE.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/IMAGE.ipynb)|`yes`|
-|VIDEO|||`no`|
+|VIDEO|`notebooks/VIDEO.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/VIDEO.ipynb)|`yes`|
 |SQL|`notebooks/SQL.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/SQL.ipynb)|`yes`|
 |NOSQL|`notebooks/NOSQL.ipynb`|[click here](https://github.com/danielc92/python-data-guide/blob/master/notebooks/NOSQL.ipynb)|`yes`|
 
