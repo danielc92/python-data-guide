@@ -11,19 +11,19 @@ This repository contains detailed instructional notebooks which examine various 
 - HTML (.html, .htm)
 - XML (.xml)
 
-**Geographic**
+**Geography**
 
 - SHAPEFILE (.shp)
 
 **Media**
 
-- IMAGE (.jpg, .jpeg, .png)
-- VIDEO (.mp4, .webm)
+- IMAGE (.jpg, .jpeg, .png, .bmp, .tiff)
+- VIDEO (.mp4, .avi)
 
 **Databases**
 
-- SQL (sqlite, postgres, mysql, mssql server, oracle server)
-- NOSQL (mongodb)
+- SQL (sqlite, PostgreSQL, MySQL, Microsoft SQL Server, Oracle Server)
+- NOSQL (MongoDB)
 
 
 # Setup
