@@ -79,6 +79,9 @@ The following data formats are available in this guide.
 
 - [XML file source](https://data.gov.au/dataset/ds-dga-4b7b5b50-774f-4416-90ce-5b7df85ff8ce/details?q=XML)
 - [Shapefiles for Australia 2018 release by ABS](https://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/1270.0.55.003July%202018?OpenDocument)
+- [flights database file](https://www.dropbox.com/s/a2wax843eniq12g/flights.db?dl=0)
+- [illegal tipping video (youtube)](https://www.youtube.com/watch?v=pTXQXp1mDkQ)
+- [Image from Pixabay](https://pixabay.com/photos/image-statue-brass-child-art-1465348/)
 
 **Documentation Sources**
 
