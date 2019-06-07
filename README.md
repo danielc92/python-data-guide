@@ -1,5 +1,5 @@
 # Accessing Data with Python Guide
-This repository contains detailed instructional notebooks which examine various well known data formats using `python 3.7` modules exclusively. I have setup a notebook for each data format within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring, manipulating and exporting the data format of interest. The following data formats are currently included;
+This repository contains detailed instructional notebooks which examine a wide array of data formats using `python3` modules. I have created a notebook for each data format/theme within the `notebooks` directory of this repo. The notebooks will attempt to go through the process of reading in, exploring, manipulating and exporting the data format of interest. The following data formats are currently available;
 
 **Common text formats**
 
