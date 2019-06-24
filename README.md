@@ -41,14 +41,14 @@ which python3
 
 ```sh
 # specify the python path which was collected above
-virtualenv --python=/usr/bin/python3 venv
+virtualenv --python=/usr/bin/python3 name_of_virtualenv
 ```
 
 **Activate venv**
 
 ```sh
 # activate using source command
-source venv/bin/activate
+source name_of_virtualenv/bin/activate
 ```
 
 **Python requirements**
